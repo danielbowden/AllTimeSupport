@@ -31,4 +31,5 @@ Current available stats include:
 
 Support contact
 [Twitter @danielgbowden](https://twitter.com/danielgbowden)
+
 [AppStore](https://itunes.apple.com/us/app/alltime/id885035467?ls=1&mt=8)
