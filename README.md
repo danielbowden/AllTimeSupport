@@ -34,4 +34,4 @@ Support contact
 
 [AppStore](https://itunes.apple.com/us/app/alltime/id885035467?ls=1&mt=8)
 
-[Privacy](http://www.privacychoice.org/policy/mobile?policy=3c9f1b64356ceb282fc2e19133f10241)
+[Privacy](http://www.privacychoice.org/policy/mobile?policy=76fce2ab49347e0732cd7f6f9033cbf0)
