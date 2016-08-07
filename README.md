@@ -1,32 +1,27 @@
 ### AllTime for iPhone
 
-Ever wondered what was your all time most popular Facebook photo? 
-Your most commented status?
-How many statuses you have mentioning work?
-Or who you share the most mutual friends with?
+How old is your current profile picture?
+Want to see your most recent check-ins spread out on a map?
+How many likes and comments have there been on your recent albums?
+Want to keep track of your friend count?
+How many countries have you checked into in the last 12 months?
+Or how many profile pictures have you ever had?
 
-AllTime provides all this information and more in an app packed with an ever growing amount of statistics you can pick and choose from to show you cool and interesting stats and facts about your Facebook Activity.
+AllTime provides all this information and more in an app packed with an ever growing amount of statistics you can pick and choose from to show you cool and interesting stats and facts about your Facebook activity.
 
 Current available stats include:
-- Top 3 liked photos
-- Top 3 liked statuses
-- Top 3 commented photos
-- Top 3 commented statuses
+- Most recent album
+- Most recent albums
 - Total friend count
-- Top liked photo
-- Female single friends
-- Male single friends
-- Top 3 most mutual friends
-- Top 3 male most mutual friends
-- Top 3 female most mutual friends
+- Most recent post
+- Countries in the last 12 months
 - Friends using this app
-- Statuses mentioning work
-- Friends with your birthday
-- Friends with a birthday today
-- Top 3 liked tagged photos
-- Top 3 commented tagged photos
-- Top 3 liked links
-- Top 3 commented links
+- Most recent check-ins
+- Last 10 songs played
+- Number of profile pictures
+- Profile picture age
+- Upcoming events
+- Pages you manage
 + Many more being added constantly
 
 Support contact
